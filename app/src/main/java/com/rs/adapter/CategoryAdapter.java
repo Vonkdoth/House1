@@ -19,6 +19,7 @@ import java.util.ArrayList;
 public class CategoryAdapter extends BaseAdapter {
 
     Context context;
+    //rshefjdhjkfksvbn vcvnvb
     int res;
     ArrayList<Category> arrayList;
 
