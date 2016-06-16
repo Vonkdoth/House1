@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">House1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Edit Profile</string>
+    <string name="title_activity_main2">House1</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_accaunt_my">AccauntMy</string>
+    <string name="title_activity_my_map">MyMap</string>
+</resources>

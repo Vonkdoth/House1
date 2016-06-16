@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_my_orders"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="My Orders"
+            app:showAsAction="ifRoom"
+            />
+        <item
+            android:id="@+id/nav_my_acc"
+            android:icon="@drawable/acount"
+            android:title="My Account"
+            app:showAsAction="ifRoom"
+            />
+
+        <item
+            app:showAsAction="ifRoom"
+            android:id="@+id/nav_privacy"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="Privacy Policy" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="Terms and Conditions *" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_cus"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="Customers Quotes" />
+    </group>
+
+</menu>
